@@ -1,0 +1,6 @@
+{
+  "name": "Kraken Crypto Predictor & Terminal",
+  "description": "Exclusively focused Kraken-powered cryptocurrency trend predictor, market sentiment monitor, and real-time execution dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
